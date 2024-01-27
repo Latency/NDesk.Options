@@ -20,7 +20,7 @@
 |              | [![MyGet Build Status](https://www.myget.org/BuildSource/Badge/NDesk.Options?identifier=8e359284-c64e-4aeb-b7c2-2122f6ad6347)](https://www.myget.org/)                                                    |
 |              | [![.NET](https://github.com/Latency/NDesk.Options/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Latency/NDesk.Options/actions/workflows/dotnet.yml)                                                    |
 | LICENSE:     | [![License](https://img.shields.io/badge/MIT-License-yellowgreen.svg)](https://github.com/Latency/NDesk.Options/blob/master/LICENSE)                                                    |
-| VERSION:     | [![GitHub release](https://img.shields.io/github/release/Latency/NDesk.Options.svg)](https://github.com/Latency/NDesk.Options/releases) - v1.2.6                                                    |
+| VERSION:     | [![GitHub Release](https://img.shields.io/github/release/Latency/NDesk.Options.svg)](https://github.com/Latency/NDesk.Options/releases) - v1.2.6                                                    |
 
 
 <hr>
